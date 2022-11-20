@@ -1,2 +1,3 @@
 # VSCode-WebComponents-Snippets
-Snippet Collection for Creating new VanillaJS WebComponents
+
+VanillaJS WebComponents Snippets for creating easily and fast new WebComponents for your project.

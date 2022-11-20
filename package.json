@@ -1,0 +1,26 @@
+{
+  "name": "vanillajs-web-component-snippets",
+  "displayName": "WebComponents Snippets",
+  "description": "VanillaJS WebComponents Snippets for creating easily and fast new WebComponents for your project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoomyTheFroomy/VSCode-WebComponents-Snippets.git"
+  },
+  "author": "Martin Rudolph <DoomyTheFroomy@users.noreply.github.com>",
+  "version": "1.0.0",
+  "publisher": "doomythefroomy",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./WebComponents-Snippets.json"
+      }
+    ]
+  }
+}
